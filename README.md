@@ -35,5 +35,9 @@ Key Takeaways:
 
 7:00pm to 9:00pm: 
 
-- presentation TBA
+- presentation
+
+## Links
+- [(YouTube playlist) Laravel Microservice by Gary Clarke](https://www.youtube.com/playlist?list=PLQH1-k79HB3_8oAmVySV3PBp869IWGpLN)
+- [microservices.io](https://microservices.io)
 
