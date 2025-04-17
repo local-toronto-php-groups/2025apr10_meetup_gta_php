@@ -41,3 +41,27 @@ Key Takeaways:
 - [(YouTube playlist) Laravel Microservice by Gary Clarke](https://www.youtube.com/playlist?list=PLQH1-k79HB3_8oAmVySV3PBp869IWGpLN)
 - [microservices.io](https://microservices.io)
 
+##
+![Peter Meth](/IMG_0247.png)
+(Peter Meth)
+
+![Easton, Peter, Bob](/IMG_0244_cropped.png)
+(Easton, Peter, Bob)
+
+![Kat, Ali, Bob](/IMG_0241.png)
+(Kat, Ali, Bob)
+
+![Welcome to the Bay/Adelaide Centre!](/IMG_0236.png)
+(Welcome to the Bay/Adelaide Centre!)
+
+![Bay/Adelaide Centre entrance](/IMG_0235.png)
+(Bay/Adelaide Centre entrance)
+
+![Rain/snowy day, looking at Union Station, with CIBC towers in background](/IMG_0234.png)
+(Rain/snowy day, looking at Union Station, with CIBC towers in background)
+
+![Royal York Hotel](/IMG_0233.png)
+(Royal York Hotel)
+
+![The Great Hall at Union Station](/IMG_0232.png)
+(The Great Hall at Union Station)
